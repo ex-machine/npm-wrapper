@@ -1,17 +1,17 @@
 {
-  "name": "@ex-machine/npm",
-  "version": "0.0.0",
-  "description": "A wrapper that allows NPM to be installed together with other NPM versions",
+  "name": "@ex-machine/npm6",
+  "version": "6.0.2",
+  "description": "A wrapper that allows NPM 6 to be installed together with other NPM versions",
   "main": "index.js",
   "bin": {
-    "npm2": "bin/npm.js"
+    "npm6": "bin/npm6.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ex-machine/npm.git"
+    "url": "git+https://github.com/ex-machine/npm-wrapper.git"
   },
   "keywords": [
     "npm"
@@ -19,10 +19,10 @@
   "author": "ex-machine",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ex-machine/npm/issues"
+    "url": "https://github.com/ex-machine/npm-wrapper/issues"
   },
-  "homepage": "https://github.com/ex-machine/npm",
+  "homepage": "https://github.com/ex-machine/npm-wrapper",
   "dependencies": {
-    "npm": "*"
+    "npm": "^6.0.0"
   }
 }
