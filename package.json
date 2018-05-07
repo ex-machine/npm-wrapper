@@ -1,0 +1,28 @@
+{
+  "name": "@ex-machine/npm",
+  "version": "0.0.0",
+  "description": "A wrapper that allows NPM to be installed together with other NPM versions",
+  "main": "index.js",
+  "bin": {
+    "npm2": "bin/npm.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ex-machine/npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "ex-machine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ex-machine/npm/issues"
+  },
+  "homepage": "https://github.com/ex-machine/npm",
+  "dependencies": {
+    "npm": "*"
+  }
+}
