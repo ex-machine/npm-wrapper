@@ -1,6 +1,6 @@
 {
   "name": "@ex-machine/npm8",
-  "version": "8.0.2",
+  "version": "8.0.3",
   "description": "A wrapper that allows NPM 8 to be installed together with other NPM versions",
   "main": "index.js",
   "bin": {
