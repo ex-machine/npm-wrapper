@@ -1,0 +1,14 @@
+A wrapper that allows NPM 5 to be installed together with other NPM versions.
+
+## Installation
+
+```
+npm i -g npm5
+```
+
+## Usage
+
+The same as `npm`:
+```
+npm5 help
+```
