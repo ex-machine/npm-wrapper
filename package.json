@@ -1,6 +1,6 @@
 {
   "name": "@ex-machine/npm9",
-  "version": "9.0.2",
+  "version": "9.0.3",
   "description": "A wrapper that allows NPM 9 to be installed together with other NPM versions",
   "main": "index.js",
   "bin": {
