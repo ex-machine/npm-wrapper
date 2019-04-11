@@ -1,6 +1,6 @@
 {
   "name": "@ex-machine/npm3",
-  "version": "3.0.4",
+  "version": "3.0.5",
   "description": "A wrapper that allows NPM 3 to be installed together with other NPM versions",
   "main": "index.js",
   "bin": {
