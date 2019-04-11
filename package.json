@@ -1,6 +1,6 @@
 {
   "name": "@ex-machine/npm6",
-  "version": "6.0.4",
+  "version": "6.0.5",
   "description": "A wrapper that allows NPM 6 to be installed together with other NPM versions",
   "main": "index.js",
   "bin": {
