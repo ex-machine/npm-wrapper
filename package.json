@@ -1,6 +1,6 @@
 {
   "name": "@ex-machine/npm4",
-  "version": "4.0.5",
+  "version": "4.0.6",
   "description": "A wrapper that allows NPM 4 to be installed together with other NPM versions",
   "main": "index.js",
   "bin": {
