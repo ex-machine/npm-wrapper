@@ -1,6 +1,6 @@
 {
   "name": "@ex-machine/npm7",
-  "version": "7.0.5",
+  "version": "7.0.6",
   "description": "A wrapper that allows NPM 7 to be installed together with other NPM versions",
   "main": "index.js",
   "bin": {
