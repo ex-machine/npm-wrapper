@@ -1,6 +1,6 @@
 {
   "name": "@ex-machine/npm2",
-  "version": "2.0.3",
+  "version": "2.0.5",
   "description": "A wrapper that allows NPM 2 to be installed together with other NPM versions",
   "main": "index.js",
   "bin": {
