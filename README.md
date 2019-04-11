@@ -1,4 +1,4 @@
-A wrapper that allows NPM 2 to be installed together with other NPM versions.
+A wrapper that allows NPM 5 to be installed together with other NPM versions.
 
 ## Installation
 
