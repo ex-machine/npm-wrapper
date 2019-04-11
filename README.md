@@ -1,9 +1,9 @@
-A wrapper that allows NPM 4 to be installed together with other NPM versions.
+A wrapper that allows NPM 2 to be installed together with other NPM versions.
 
 ## Installation
 
 ```
-npm i -g npm4
+npm i -g @ex-machine/npm4
 ```
 
 ## Usage
@@ -12,3 +12,4 @@ The same as `npm`:
 ```
 npm4 help
 ```
+	
